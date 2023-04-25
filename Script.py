@@ -6,12 +6,12 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/KDRAMSHINDI'>𝐒𝐈𝐑𝐈𝐒𝐇</a>
-✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/KDRAMSHINDI'>𝗧𝗜𝗧𝗔𝗡 𝗕𝗢𝗧𝗦</a>
+✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>𝗣𝗬𝗥𝗢𝗚𝗥𝗔𝗠</a>
+✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>𝗣𝗬𝗧𝗛𝗢𝗡 3</a>
+✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>𝗠𝗢𝗡𝗚𝗢𝗗𝗕</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/KDRAMSHINDI'>𝗣𝗥𝗜𝗩𝗔𝗧𝗘 𝗩𝗣𝗦</a>
+✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v3.11.1 [ 𝗣𝗥𝗜𝗩𝗔𝗧𝗘 ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
